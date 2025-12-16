@@ -1,13 +1,6 @@
 .wrap [class*="CodeMirror-lint-marker"],5687
 	font: normal 18px/1 dashicons;
-	position: relative;
-	top: -2px;
-}
-
-.wp-core-ui [class*="CodeMirror-lint-message"]:before {
-	font: normal 16px/1 dashicons;5687
-	border-left: 4px solid #dba617;
-}
+	position: relative;5687
 
 .wrap .CodeMirror-lint-marker-warning:before,
 .wp-core-ui .CodeMirror-lint-message-warning:before {
