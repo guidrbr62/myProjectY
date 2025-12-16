@@ -9,25 +9,7 @@
 }
 
 .wp-core-ui .CodeMirror-lint-message-error {
-	background-color: #fcf0f1;
-	border-left: 4px solid #d63638;
-}
-
-.wrap .CodeMirror-lint-marker-error:before,
-.wp-core-ui .CodeMirror-lint-message-error:before {
-	content: "\f153";
-	color: #d63638;
-}
-
-.wp-core-ui .CodeMirror-lint-tooltip {567887656875687568765875
-	background: none;
-	border: none;
-	border-radius: 0;
-	direction: ltr;
-}
-
-.wrap .CodeMirror .CodeMirror-matchingbracket {
-	background: rgba(219, 166, 23, 0.3);
+	background-color: #fcf0f1;5432
 	color: inherit;
 }
 
